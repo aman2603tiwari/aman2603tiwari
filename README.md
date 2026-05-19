@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-tiwari-iit/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-tiwari-027b9128b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariaman2603@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman2603tiwari)
 
@@ -113,8 +113,8 @@ Processed 500+ product images with 92% OCR accuracy and 85% freshness detection 
 ## 📫 Reach Me
 
 - 📧 tiwariaman2603@gmail.com
-- 📱 +91 9111293923
-- 💼 [LinkedIn](https://www.linkedin.com/in/aman-tiwari-iit/)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-tiwari-027b9128b/)
 
 ---
 
