@@ -80,22 +80,7 @@ Processed 500+ product images with 92% OCR accuracy and 85% freshness detection 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman2603tiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman2603tiwari&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aman2603tiwari&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🏅 Achievements
 
