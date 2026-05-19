@@ -25,21 +25,14 @@
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
-```python
-aman = {
-    "name"        : "Aman Tiwari",
-    "institute"   : "IIT Roorkee — ECE, B.Tech III Year (2023–27)",
-    "cgpa"        : 8.556,
-    "interests"   : ["LLM Agents", "Multi-Agent Systems", "Computer Vision", "RAG Pipelines"],
-    "published"   : "IEEE ANTS 2025 — AI-Driven Convex Optimization for Urban Cell Planning",
-    "ranks"       : {"JEE Advanced": "AIR-797", "JEE Mains": "AIR-640", "KVPY": "AIR-372"},
-    "roles"       : ["AI/ML Head @ Team Robocon IITR", "Technical Head @ GambitoR IITR"],
-    "currently"   : "Building real AI systems — not just notebooks",
-    "contact"     : "tiwariaman2603@gmail.com"
-}
-```
+- 🎓 **B.Tech III Year, ECE** — Indian Institute of Technology Roorkee | CGPA: **8.556**
+- 🏆 **AIR-797** JEE Advanced 2023 · **AIR-640** JEE Mains 2023 · **KVPY AIR-372**
+- 🤖 **AI/ML Head** @ Team Robocon IITR | **Technical Head** @ GambitoR IITR
+- 📄 Published at **IEEE ANTS 2025** — AI-Driven Convex Optimization for Urban Cell Planning
+- 🌱 Currently diving deep into **LLM agents**, **multi-agent orchestration**, and **real-time AI systems**
+- ⚡ Fun fact: I painted a full **Jungle Book wall mural** and run a **JEE coaching Telegram group** for 200+ aspirants
 
 ---
 
@@ -74,6 +67,16 @@ aman = {
 </td>
 </tr>
 <tr>
+    <td width="50%" valign="top">
+
+### 📶 Urban Cell Planning — IEEE ANTS 2025
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
+![CVX](https://img.shields.io/badge/CVX%20MOSEK-Optimization-blue?style=flat-square)
+![Published](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square)
+
+> ML model with **96% accuracy** on RSS data (20K+ samples/operator). CVX-MOSEK optimization determined tower placement to lift signal strength above −90 dBm.
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏭 Smart Vision Quality Control
@@ -86,7 +89,10 @@ aman = {
 **Key Tech:** SAM2 · Multimodal LLM · Logistics automation
 
 </td>
-<td width="50%" valign="top">
+
+</tr>
+<tr>
+    <td width="50%" valign="top">
 
 ### 🚦 Traffic Light Controller — YOLOv8
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
@@ -98,8 +104,6 @@ aman = {
 **Key Tech:** YOLOv8 · OpenCV · RMS Clustering · CVAT
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚁 Drone Fault Classification
@@ -110,16 +114,7 @@ aman = {
 > **90%+ accuracy** across 3 simultaneous tasks on **65K+ audio samples**: drone type · flight direction · fault detection using MFCCs + CNN + Random Forest.
 
 </td>
-<td width="50%" valign="top">
 
-### 📶 Urban Cell Planning — IEEE ANTS 2025
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
-![CVX](https://img.shields.io/badge/CVX%20MOSEK-Optimization-blue?style=flat-square)
-![Published](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square)
-
-> ML model with **96% accuracy** on RSS data (20K+ samples/operator). CVX-MOSEK optimization determined tower placement to lift signal strength above −90 dBm.
-
-</td>
 </tr>
 </table>
 
@@ -153,29 +148,7 @@ aman = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman2603tiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman2603tiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aman2603tiwari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman2603tiwari&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 ## 🏅 Achievements & Recognition
 
