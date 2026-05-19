@@ -190,7 +190,6 @@
 | 📧 Email | [tiwariaman2603@gmail.com](mailto:tiwariaman2603@gmail.com) |
 | 💼 LinkedIn | [aman-tiwari-027b9128b](https://www.linkedin.com/in/aman-tiwari-027b9128b/) |
 | 🐙 GitHub | [aman2603tiwari](https://github.com/aman2603tiwari) |
-| 📱 Phone | +91 9111293923 |
 
 </div>
 
